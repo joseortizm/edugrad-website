@@ -1,19 +1,12 @@
-.. eduGrad documentation master file, created by
-   sphinx-quickstart on Sat Feb 15 23:53:17 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Documentación de eduGrad
-=====================
+========================
 
-.. Add your content using ``reStructuredText`` syntax. See the
-   `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-   documentation for details.
-
+Bienvenido a la documentación de **eduGrad**. Aquí aprenderás sobre cómo usar nuestra herramienta para entender las redes neuronales.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenidos:
 
-   Introducción
-   Instalacion
+   introduccion
+   instalacion
+   tutorial
