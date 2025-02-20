@@ -9,4 +9,5 @@ Bienvenido a la documentación de **eduGrad**. Aquí aprenderás sobre cómo usa
 
    introduccion
    instalacion
+   algebralineal 
    tutorial
